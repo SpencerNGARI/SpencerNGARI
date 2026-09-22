@@ -8,9 +8,9 @@ A considerable amount of my time is spent learning, building open-source project
 
 ### 💻 Languages & Tech Stack
 
-* **Languages:** Python, SQL, C++, R
+* **Languages:** Python, SQL, C++
 * **Data & Analytics:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-* **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, VS Code
+* **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, VS Code, Anaconda
 * **Environment & Package Management** Miniconda / Anaconda (virtual environments & package isolation)
 
 ---
