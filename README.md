@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Data Science Student with a passion for building data pipelines, analyzing complex datasets, and applying machine learning to solve real-world problems. 
+I am a Data Science Student with a passion for building data pipelines, analyzing complex datasets, and applying machine learning to solve real-world problems. 
 
 A considerable amount of my time is spent learning, building open-source projects, and contributing to tech communities to help make data education accessible.
 
@@ -35,4 +35,5 @@ A considerable amount of my time is spent learning, building open-source project
 
 * **Email:** [ngarispencer@gmail.com](mailto:ngarispencer@gmail.com)
 * **LinkedIn:** [Spencer Ngari](https://www.linkedin.com/in/spencer-ngari/)
-* **GitHub:** [SpencerNGARI](https://github.com/SpencerNGARI)ww
+* **GitHub:** [SpencerNGARI](https://github.com/SpencerNGARI)
+* [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerNGARI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
