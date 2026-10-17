@@ -35,5 +35,4 @@ A considerable amount of my time is spent learning, building open-source project
 
 * **Email:** [ngarispencer@gmail.com](mailto:ngarispencer@gmail.com)
 * **LinkedIn:** [Spencer Ngari](https://www.linkedin.com/in/spencer-ngari/)
-* **GitHub:** [SpencerNGARI](https://github.com/SpencerNGARI)
 * [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerNGARI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
